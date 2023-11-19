@@ -33,6 +33,26 @@ main()
   IFS=' ' read -r -a plugins <<< $(get_tmux_option "@dracula-plugins" "battery network weather")
   show_empty_plugins=$(get_tmux_option "@dracula-show-empty-plugins" true)
 
+## Parchment = Solaris w/ better contrast influenced by contrast rebellion
+# " color palette
+# let s:black =        [ 0, '#000000']
+# let s:red =          [ 1, '#880000']
+# let s:green =        [ 2, '#005500']
+# let s:brown =        [ 3, '#663311']
+# let s:blue =         [ 4, '#004488']
+# let s:magenta =      [ 5, '#770077']
+# let s:cyan =         [ 6, '#007777']
+# let s:beige =        [ 7, '#eeeecc']
+# let s:pale_gray =    [ 8, '#eaeaea']
+# let s:pale_red =     [ 9, '#ffeaea']
+# let s:pale_green =   [10, '#eaffea']
+# let s:yellow =       [11, '#eeee9e']
+# let s:pale_blue =    [12, '#cceeff']
+# let s:pale_magenta = [13, '#ffeaff']
+# let s:pale_cyan =    [14, '#eaffff']
+# let s:pale_yellow =  [15, '#ffffea']
+# let s:shadow =       [ 6, '#808075']
+
   # Dracula Color Pallette
   white='#f8f8f2'
   gray='#44475a'
