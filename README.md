@@ -1,4 +1,10 @@
-# Dracula for [tmux](https://github.com/tmux/tmux/wiki)
+# Paper for [tmux](https://github.com/tmux/tmux/wiki)
+
+**The design is already good for the plugins 'battery', 'weather', and 'time.**
+
+- [X] Create a first working MVP
+- [ ] Test through all tmux plugins
+- [ ] Update README
 
 > A dark theme for [tmux](https://github.com/tmux/tmux/wiki)
 
