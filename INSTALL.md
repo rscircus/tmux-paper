@@ -1,10 +1,12 @@
 ### [tmux](https://github.com/tmux/tmux/wiki)
 
+As this plugin is based on dracula, the naming scheme is based on dracula for now.
+
 #### Install using [tpm](https://github.com/tmux-plugins/tpm)
 
 If you are a tpm user, you can install the theme and keep up to date by adding the following to your .tmux.conf file:
 
-	set -g @plugin 'dracula/tmux'
+	set -g @plugin 'paper/tmux'
 
 Add any configuration options below this line in your tmux config.
 
