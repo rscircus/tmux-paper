@@ -49,9 +49,8 @@ FreeBSD compatibility is in development
 
 On which these files are based:
 
-- ![Dane Williams](https://avatars2.githubusercontent.com/u/22798229?s=70&v=4",)](https://github.com/danerwilliams)
-- ![Ethan Edwards](https://avatars1.githubusercontent.com/u/60861925?s=70&v=4)](https://github.com/ethancedwards8)
-
+- [Dane Williams](https://github.com/danerwilliams)
+- [Ethan Edwards](https://github.com/ethancedwards8)
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
 - [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
 - [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
